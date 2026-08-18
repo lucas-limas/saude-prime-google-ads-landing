@@ -99,7 +99,7 @@ function cleanPhone(value) {
 
 function createMessage(data) {
   return [
-    "Olá! Vim pelo site da Saúde Prime e gostaria de uma análise de plano de saúde.",
+    "Olá! Vim pelo site da Saúde Prime e gostaria de cotar o plano de saúde MedSênior.",
     "",
     `Nome: ${data.nome}`,
     `Perfil: ${data.perfil}`,
